@@ -1,8 +1,8 @@
 # BIGTIGER.ME（基于React Native制作的博客客户端）
 
-## 关于BIGTIGER.ME
-
 BIGTIGER.ME，根据英文直接的中文翻译是大老虎🐅，但是我更喜欢它的谐音，叫做”逼格太高的我“。目前是一个面向高逼格人群的博客✌️（如果有可能的话！后期会发展成一个组织）。
+
+<!--more-->
 
 ## 关于这个项目
 
@@ -57,5 +57,9 @@ BIGTIGER.ME，根据英文直接的中文翻译是大老虎🐅，但是我更�
 可以通过以下方式联系我😁。
 
 Email：liujinyang@bigtiger.me
-
 Wechat：jinyang1994
+
+
+
+
+
