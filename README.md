@@ -61,7 +61,6 @@ BIGTIGER.ME，根据英文直接的中文翻译是大老虎🐅，但是我更�
 可以通过以下方式联系我😁。
 
 Email：liujinyang@bigtiger.me
-Wechat：jinyang1994
 
 
 
