@@ -10,7 +10,7 @@
     "eventemitter3": "^1.2.0",
     "fetch-http-client": "0.0.3",
     "lodash": "^4.11.1",
-    "moment": "~2.11.2",
+    "moment": "~2.19.3",
     "numeral": "^1.5.3",
     "react": "15.2.1",
     "react-native": "0.31.0",
